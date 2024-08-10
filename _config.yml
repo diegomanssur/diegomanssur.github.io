@@ -1,8 +1,10 @@
-title: Diego Mannssur # your name (or website title) here
+title: Diego Manssur # your name (or website title) here
 logo: "/images/profile.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hello! My name is Diego Manssur. <br><br>
-  I am a Data Analyst who's passionate about trends and insights in the film and entertainment industry   <br><br>
+  Hello! My name is Diego Manssur! <br><br>
+  I am a Data Analyst who's passionate about trends and insights in the film and entertainment industry.<br><br>
+  Here you can find my data projects.<br><br>
+  Hope you enjoy my portafolio!<br><br>
   <a href="https://www.linkedin.com/in/diegomanssur/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
