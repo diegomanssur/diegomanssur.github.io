@@ -4,24 +4,18 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+#### [Analyzing DoorDash Sales Throughout The Year](/bank)
+<img src="images/doordash.png?raw=true"/>
+In this study, I analyze a real data set from DoorDash using Excel to find important insights about their customers and revenue. Click here to read more!
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
-
----
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
-
+#### [International Students in Canada: 2015-2023](/bank)
+<img src="images/canada.jpeg?raw=true"/>
+For this project, I explored government data to find insights and trends about international students that came to Canada between 2015 and 2023. 
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="images/education.jpg?raw=true"/>](https://www.linkedin.com/posts/diegomanssur_back-to-school-at-least-for-today-i-had-activity-7226639594480377856-GUsO?utm_source=share&utm_medium=member_desktop)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
