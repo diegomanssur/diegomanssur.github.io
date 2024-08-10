@@ -14,7 +14,7 @@ In this study, I analyze a real data set from DoorDash using Excel to find impor
 For this project, I explored government data to find insights and trends about international students that came to Canada between 2015 and 2023. 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
+#### [Education Project](https://www.linkedin.com/posts/diegomanssur_back-to-school-at-least-for-today-i-had-activity-7226639594480377856-GUsO?utm_source=share&utm_medium=member_desktop)
 [<img src="images/education.jpg?raw=true"/>](https://www.linkedin.com/posts/diegomanssur_back-to-school-at-least-for-today-i-had-activity-7226639594480377856-GUsO?utm_source=share&utm_medium=member_desktop)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
