@@ -1,4 +1,4 @@
-## This can be a template for an internal prject
+## International Students in Canada: 2015-2023
 
 **Project description:** You can use this template to create projects in the future. Simply duplicate the page and change the text and images. 
 
