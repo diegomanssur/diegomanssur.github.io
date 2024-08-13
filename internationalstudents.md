@@ -175,7 +175,7 @@ After taking a closer look at the data, I couldn't find any issues or mistakes. 
 
 ### Gender segmentation: 2015-2023
 
-<img src="images/25_gendersegmentation.png?raw=true"/>
+<img src="images/25_gendersegmentation_002.png?raw=true"/>
 
 <img src="images/is_province.png?raw=true"/>
 
