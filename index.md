@@ -9,7 +9,7 @@
 In this study, I analyze a real data set from DoorDash using Excel to find important insights about their customers and revenue. Click here to read more!
 
 ---
-#### [International Students in Canada: 2015-2023](/bank)
+#### [International Students in Canada: 2015-2023](/internationalstudents.md)
 <img src="images/canada.jpeg?raw=true"/>
 For this project, I explored government data to find insights and trends about international students that came to Canada between 2015 and 2023. 
 
