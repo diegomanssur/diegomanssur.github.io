@@ -12,7 +12,7 @@ The following dataset has been provided by Immigration, Refugees and Citizenship
 
 This section of the study will focus on the table called international_students_Canada, which provides us with information about the different countries international students have come between 2015 and 2023.
 
-### Viewing Data¶
+### Viewing Data
 In order to explore and organize our data, we need to take a look and understand it. This way we can find inconsistencies or errors we can clean in the process.
 
 <img src="images/001_view_data.png?raw=true"/>
@@ -22,7 +22,7 @@ After taking a closer look at the data, I couldn't find any issues or mistakes. 
 
 <img src="images/002_delete_headers.png?raw=true"/>
 
-### Number of Countries that contributed with international students between 2015 and 2023¶
+### Number of Countries that contributed with international students between 2015 and 2023
 
 While reviewing the data, I could easily see that there weree many countries that had 0 international students coming to Canada. I wouldn't consider this an error, so filtering the non-contributor countries out of our study will definitely help us with future calculations. The following query and subquery helps us identify and count how many countries actually contribute with international students in Canada.
 
@@ -37,7 +37,7 @@ I thought it would be interesting to now the exact number of international stude
 
 <img src="images/004_number_is_ss.png?raw=true"/>
 
-### Top 5 Nationalities: 2015 - 2023¶
+### Top 5 Nationalities: 2015 - 2023
 With this query, we identify the 5 countries that contributed with the most international students. Just to clarify, the sum of the values doesn't reflect the total number of international students Canada has received between 2015-2023.
 
 <img src="images/005_top5_nat.png?raw=true"/>
@@ -52,7 +52,7 @@ Just as the query above, exploring the 5 countries that contributed with less st
 
 <img src="images/is_bottom_nat.png?raw=true"/>
 
-## International Students Per Year¶
+## International Students Per Year
 In the following section, we will explore the numbers and Top 5 nationalities for each year, starting from 2015 and ending at 2023.
 
 ### Top 5 Nationalities in 2015
@@ -103,7 +103,7 @@ In the following section, we will explore the numbers and Top 5 nationalities fo
 
 <img src="images/is_top5_nat_2022.png?raw=true"/>
 
-### Top 5 Nationalities in 2022
+### Top 5 Nationalities in 2023
 
 <img src="images/015_top_2023.png?raw=true"/>
 
@@ -140,7 +140,7 @@ By using a Windows Function like LAG, we can get the right numbers from the prev
 
 <img src="images/is_growth.png?raw=true"/>
 
-## International Students - Province Segmentation¶
+## International Students - Province Segmentation
 This section of the study will be focused on the table called international_students_Province_Canada, which provides us with information about the different Canadian provinces international students have come to between 2015 and 2023. We also have data about gender per provinces.
 
 ### View Data from second table
