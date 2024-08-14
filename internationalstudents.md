@@ -42,7 +42,7 @@ With this query, we identify the 5 countries that contributed with the most inte
 
 <img src="images/005_top5_nat.png?raw=true"/>
 
-<img src="images/is_top5_nat_2015_2023.png?raw=true"/>
+<img src="images/is_top5_nat_2015_2023_hq.png?raw=true"/>
 
 ### Bottom 5 Nationalities: 2015-2023
 
@@ -50,7 +50,7 @@ Just as the query above, exploring the 5 countries that contributed with less st
 
 <img src="images/006_bottom5_nat.png?raw=true"/>
 
-<img src="images/is_bottom_nat.png?raw=true"/>
+<img src="images/is_bottom_nat_hq.png?raw=true"/>
 
 ## International Students Per Year
 In the following section, we will explore the numbers and Top 5 nationalities for each year, starting from 2015 and ending at 2023.
@@ -59,62 +59,62 @@ In the following section, we will explore the numbers and Top 5 nationalities fo
 
 <img src="images/007_top2015.png?raw=true"/>
 
-<img src="images/is_top5_nat_2015.png?raw=true"/>
+<img src="images/is_top5_nat_2015_hq.png?raw=true"/>
 
 ### Top 5 Nationalities in 2016
 
 <img src="images/008_top2016.png?raw=true"/>
 
-<img src="images/is_top5_nat_2016.png?raw=true"/>
+<img src="images/is_top5_nat_2016_hq.png?raw=true"/>
 
 ### Top 5 Nationalities in 2017
 
 <img src="images/009_top2017.png?raw=true"/>
 
-<img src="images/is_top5_nat_2017.png?raw=true"/>
+<img src="images/is_top5_nat_2017_hq.png?raw=true"/>
 
 ### Top 5 Nationalities in 2018
 
 <img src="images/010_top2018.png?raw=true"/>
 
-<img src="images/is_top5_nat_2018.png?raw=true"/>
+<img src="images/is_top5_nat_2018_hq.png?raw=true"/>
 
 ### Top 5 Nationalities in 2019
 
 <img src="images/011_top_2019.png?raw=true"/>
 
-<img src="images/is_top5_nat_2019.png?raw=true"/>
+<img src="images/is_top5_nat_2019_hq.png?raw=true"/>
 
 ### Top 5 Nationalities in 2020
 
 <img src="images/012_top_2020.png?raw=true"/>
 
-<img src="images/is_top5_nat_2020.png?raw=true"/>
+<img src="images/is_top5_nat_2020_hq.png?raw=true"/>
 
 ### Top 5 Nationalities in 2021
 
 <img src="images/013_top_2021.png?raw=true"/>
 
-<img src="images/is_top5_nat_2021.png?raw=true"/>
+<img src="images/is_top5_nat_2021_hq.png?raw=true"/>
 
 ### Top 5 Nationalities in 2022
 
 <img src="images/014_top_2022.png?raw=true"/>
 
-<img src="images/is_top5_nat_2022.png?raw=true"/>
+<img src="images/is_top5_nat_2022_hq.png?raw=true"/>
 
 ### Top 5 Nationalities in 2023
 
 <img src="images/015_top_2023.png?raw=true"/>
 
-<img src="images/is_top5_nat_2023.png?raw=true"/>
+<img src="images/is_top5_nat_2023_hq.png?raw=true"/>
 
 ### Total number of International Students per year
 The following query and graph shows us the total number of international students Canada has hosted each year, from 2015 to 2023.
 
 <img src="images/016_total_per_year.png?raw=true"/>
 
-<img src="images/is_peryear.png?raw=true"/>
+<img src="images/is_peryear_hq.png?raw=true"/>
 
 ### Average number of International students between 2015 and 2023
 
@@ -138,7 +138,7 @@ By using a Windows Function like LAG, we can get the right numbers from the prev
 
 <img src="images/019_growth_table.png?raw=true"/>
 
-<img src="images/is_growth.png?raw=true"/>
+<img src="images/is_growth_hq.png?raw=true"/>
 
 ## International Students - Province Segmentation
 This section of the study will be focused on the table called international_students_Province_Canada, which provides us with information about the different Canadian provinces international students have come to between 2015 and 2023. We also have data about gender per provinces.
@@ -159,7 +159,7 @@ After taking a closer look at the data, I couldn't find any issues or mistakes. 
 
 <img src="images/22-5_province_distribution_ss.png?raw=true"/>
 
-<img src="images/is_map.png?raw=true"/>
+<img src="images/is_map_hq.png?raw=true"/>
 
 ### Top 5 Provinces: 2015-2023
 
@@ -177,7 +177,7 @@ After taking a closer look at the data, I couldn't find any issues or mistakes. 
 
 <img src="images/25_gendersegmentation_002.png?raw=true"/>
 
-<img src="images/is_province.png?raw=true"/>
+<img src="images/is_province_hq.png?raw=true"/>
 
 ## Findings
 Between 2015 and 2023, Canada received a total of 3,502,910 international students.
