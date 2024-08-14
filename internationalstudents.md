@@ -138,7 +138,7 @@ By using a Windows Function like LAG, we can get the right numbers from the prev
 
 <img src="images/019_growth_table.png?raw=true"/>
 
-<img src="images/is_growth_hq.png?raw=true"/>
+<img src="images/is_growth_hq_02.png?raw=true"/>
 
 ## International Students - Province Segmentation
 This section of the study will be focused on the table called international_students_Province_Canada, which provides us with information about the different Canadian provinces international students have come to between 2015 and 2023. We also have data about gender per provinces.
