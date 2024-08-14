@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [Analyzing DoorDash Sales Throughout The Year](/bank)
+#### [Analyzing DoorDash Sales Throughout The Year](https://www.linkedin.com/pulse/analyzing-doordash-sales-throughout-year-diego-manssur-9hp4c/)
 <img src="images/doordash.png?raw=true"/>
 In this study, I analyze a real data set from DoorDash using Excel to find important insights about their customers and revenue. Click here to read more!
 
