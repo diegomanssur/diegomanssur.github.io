@@ -177,7 +177,7 @@ After taking a closer look at the data, I couldn't find any issues or mistakes. 
 
 <img src="images/25_gendersegmentation_002.png?raw=true"/>
 
-<img src="images/is_province_hq.png?raw=true"/>
+<img src="images/is_province.png?raw=true"/>
 
 ## Findings
 Between 2015 and 2023, Canada received a total of 3,502,910 international students.
