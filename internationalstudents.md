@@ -159,7 +159,7 @@ After taking a closer look at the data, I couldn't find any issues or mistakes. 
 
 <img src="images/22-5_province_distribution_ss.png?raw=true"/>
 
-<img src="images/is_map_hq.png?raw=true"/>
+<img src="images/is_map.png?raw=true"/>
 
 ### Top 5 Provinces: 2015-2023
 
