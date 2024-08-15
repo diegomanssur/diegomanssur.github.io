@@ -8,6 +8,10 @@
 <img src="images/doordash.png?raw=true"/>
 In this study, I analyze a real data set from DoorDash using Excel to find important insights about their customers and revenue. Click here to read more!
 
+#### [Where is The Money?](https://www.linkedin.com/pulse/where-money-diego-manssur-sfsde/)
+<img src="images/IDA_Thumb.png?raw=true"/>
+I had a lot of fun analyzing this data set from The International Development Association. It was really interesting to see how much money certain countries borrow and how much they pay back. Click to read more!
+
 ---
 #### [International Students in Canada: 2015-2023](/internationalstudents.md)
 <img src="images/canada.jpeg?raw=true"/>
