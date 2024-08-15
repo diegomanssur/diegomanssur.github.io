@@ -1,6 +1,6 @@
 # International Students in Canada: 2015-2023
 
-<img src="images/is_study.jpg?raw=true"/>
+<img src="images/canada.png?raw=true"/>
 
 In the past 8 years, immigration laws and the education system have drastically changed in order to welcome a higher number of international students. However, the government of Canada has recently annouced that new regulations and rules will be implemented in the future for students visas in order to alleviate the current housing crisis.
 
