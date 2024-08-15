@@ -14,7 +14,7 @@ I had a lot of fun analyzing this data set from The International Development As
 
 ---
 #### [International Students in Canada: 2015-2023](/internationalstudents.md)
-<img src="images/canada.jpeg?raw=true"/>
+<img src="images/canada.png?raw=true"/>
 For this project, I explored government data to find insights and trends about international students that came to Canada between 2015 and 2023. 
 
 ---
