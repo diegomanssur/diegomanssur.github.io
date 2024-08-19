@@ -13,7 +13,7 @@ In this study, I analyze a real data set from DoorDash using Excel to find impor
 I had a lot of fun analyzing this data set from The International Development Association using SQL. It was really interesting to see how much money certain countries borrow and how much they pay back. Click to read more!
 
 ---
-#### [Welcome to Canada!](/internationalstudents.md)
+#### [Welcome to Canada!](https://www.linkedin.com/pulse/welcome-canada-diego-manssur-eiwze/?trackingId=%2BfIJPsI6Vih%2F7%2B6sac%2BeHA%3D%3D)
 <img src="images/canada.png?raw=true"/>
 For this project, I explore government data to find insights and trends about international students that came to Canada between 2015 and 2023 using SQL 
 
