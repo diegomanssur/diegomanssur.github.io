@@ -3,6 +3,10 @@
 
 ### Learn About My Projects
 
+### [Dribble Pass & Shoot!](https://www.linkedin.com/pulse/dribble-pass-shoot-diego-manssur-scyie/?trackingId=ybhxpXHITjq4iKk5iDpwXw%3D%3D)
+[<img src="images/bb.png?raw=true"/>](https://www.linkedin.com/pulse/dribble-pass-shoot-diego-manssur-scyie/?trackingId=ybhxpXHITjq4iKk5iDpwXw%3D%3D)
+Hello! It's me again! This time, I analyzed NBA data from Season 2021-2022 using Tableau. I found very interesting facts and insights and had a great time creating different visualizations. Click to read more!
+
 ### [Health is Wealth!](https://www.linkedin.com/pulse/health-wealth-diego-manssur-ilree/?trackingId=hel9%2BWKbTemwKWBrC1mxcA%3D%3D)
 [<img src="images/health.png?raw=true"/>](https://www.linkedin.com/pulse/health-wealth-diego-manssur-ilree/?trackingId=hel9%2BWKbTemwKWBrC1mxcA%3D%3D)
 For this case, I use SQL to analyze data from 130 hospitals in the US and find very interesting and helpful insights for patients and medical professionals. Click to read more!
