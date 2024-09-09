@@ -3,6 +3,10 @@
 
 ### Learn About My Projects
 
+### [Let's Get The Iron](https://www.linkedin.com/pulse/lets-get-iron-diego-manssur-px8gc/?trackingId=uiX3WYm6T3S%2BmnjMT1YtTQ%3D%3D)
+[<img src="images/iron.png?raw=true"/>](https://www.linkedin.com/pulse/lets-get-iron-diego-manssur-px8gc/?trackingId=uiX3WYm6T3S%2BmnjMT1YtTQ%3D%3D)
+For my next case, I go through iron mining data using Python. This approach and coding language was really useful to verify the success of the iron mining process. Click here to read more!
+
 ### [Dribble Pass & Shoot!](https://www.linkedin.com/pulse/dribble-pass-shoot-diego-manssur-scyie/?trackingId=ybhxpXHITjq4iKk5iDpwXw%3D%3D)
 [<img src="images/bb.png?raw=true"/>](https://www.linkedin.com/pulse/dribble-pass-shoot-diego-manssur-scyie/?trackingId=ybhxpXHITjq4iKk5iDpwXw%3D%3D)
 Hello! It's me again! This time, I analyzed NBA data from Season 2021-2022 using Tableau. I found very interesting facts and insights and had a great time creating different visualizations. Click to read more!
