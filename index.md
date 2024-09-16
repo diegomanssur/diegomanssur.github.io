@@ -3,6 +3,10 @@
 
 ### Learn About My Projects
 
+### [Hired Or Fired?](https://www.linkedin.com/pulse/hired-fired-diego-manssur-sb91e/?trackingId=TLvSXS2XQuCKfr0qkyDf5g%3D%3D)
+[<img src="images/hof.png?raw=true"/>](https://www.linkedin.com/pulse/hired-fired-diego-manssur-sb91e/?trackingId=TLvSXS2XQuCKfr0qkyDf5g%3D%3D)
+For this case, I analyzed HR data using R to generate Linear Regressions, Box Plots and Welch-Two Sample tests. This helped me predict monthly income based on age, whether an employee would stay in the company or not, and other correlations. Click here to read more!
+
 ### [Let's Get The Iron](https://www.linkedin.com/pulse/lets-get-iron-diego-manssur-px8gc/?trackingId=uiX3WYm6T3S%2BmnjMT1YtTQ%3D%3D)
 [<img src="images/iron.png?raw=true"/>](https://www.linkedin.com/pulse/lets-get-iron-diego-manssur-px8gc/?trackingId=uiX3WYm6T3S%2BmnjMT1YtTQ%3D%3D)
 For my next case, I go through iron mining data using Python. This approach and coding language was really useful to verify the success of the iron mining process. Click here to read more!
