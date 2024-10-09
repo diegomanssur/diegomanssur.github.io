@@ -3,6 +3,10 @@
 
 ### Learn About My Projects
 
+### [Take The Shot!](https://www.linkedin.com/pulse/take-shot-diego-manssur-4buje/?trackingId=TLvSXS2XQuCKfr0qkyDf5g%3D%3D)
+[<img src="images/hof.png?raw=true"/>](https://www.linkedin.com/pulse/take-shot-diego-manssur-4buje/?trackingId=TLvSXS2XQuCKfr0qkyDf5g%3D%3D)
+Hello! In this case, I analyzed data from 1558 Call Of Duty players and found some interesting insights regarding their Level, Time Played and other skills. Click here to read more!
+
 ### [Hired Or Fired?](https://www.linkedin.com/pulse/hired-fired-diego-manssur-sb91e/?trackingId=TLvSXS2XQuCKfr0qkyDf5g%3D%3D)
 [<img src="images/hof.png?raw=true"/>](https://www.linkedin.com/pulse/hired-fired-diego-manssur-sb91e/?trackingId=TLvSXS2XQuCKfr0qkyDf5g%3D%3D)
 For this case, I analyzed HR data using R to generate Linear Regressions, Box Plots and Welch-Two Sample tests. This helped me predict monthly income based on age, whether an employee would stay in the company or not, and other correlations. Click here to read more!
