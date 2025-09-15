@@ -3,6 +3,14 @@
 
 ### Learn About My Projects
 
+### [Music Popularity Prediction with Python](https://www.linkedin.com/pulse/music-popularity-prediction-python-diego-manssur-vrsre/)
+[<img src="images/spotify.png?raw=true"/>](https://www.linkedin.com/pulse/music-popularity-prediction-python-diego-manssur-vrsre/)
+Hello! I've been having some fun learning about Machine Learning and predictive algorithms. In this article, I use a data set with 227 music tracks to predict their popularity creating and training a model. Take a look for more!
+
+### [Salary Prediction Using Machine Learning](https://www.linkedin.com/pulse/salary-prediction-using-machine-learning-diego-manssur-pnf0e/)
+[<img src="images/salary.png?raw=true"/>](https://www.linkedin.com/pulse/salary-prediction-using-machine-learning-diego-manssur-pnf0e/)
+I've been digging into the world of AI and Machine Learning, so I decided to work on a simple ML case using predictive modeling. Hope you like it!
+
 ### [Take The Shot!](https://www.linkedin.com/pulse/take-shot-diego-manssur-4buje/?trackingId=TLvSXS2XQuCKfr0qkyDf5g%3D%3D)
 [<img src="images/shot.png?raw=true"/>](https://www.linkedin.com/pulse/take-shot-diego-manssur-4buje/?trackingId=TLvSXS2XQuCKfr0qkyDf5g%3D%3D)
 Hello! In this case, I analyzed data from 1558 Call Of Duty players and found some interesting insights regarding their Level, Time Played and other skills. Click here to read more!
