@@ -11,6 +11,10 @@ During my journey in learning Data Science, I developed a particular affinity fo
 [<img src="images/0015_webaipass.jpg?raw=true"/>](https://www.linkedin.com/pulse/building-web-ui-local-ai-agent-diego-manssur-qjvnc/)
 Hello AI enthusiasts and Data Analysts. In this project, I have developed a user-friendly interface for Data Analysis utilizing an AI model with Streamlit, LangChain, Ollama, and Mistral. The project also incorporates libraries such as Pandas, Matplotlib, and Seaborn for data analysis and visualization.
 
+### [Take The Shot!](https://www.linkedin.com/pulse/take-shot-diego-manssur-4buje/?trackingId=TLvSXS2XQuCKfr0qkyDf5g%3D%3D)
+[<img src="images/shot.png?raw=true"/>](https://www.linkedin.com/pulse/take-shot-diego-manssur-4buje/?trackingId=TLvSXS2XQuCKfr0qkyDf5g%3D%3D)
+Hello! In this case, I analyzed data from 1558 Call Of Duty players and found some interesting insights regarding their Level, Time Played and other skills. Click here to read more!
+
 ### [Building a Multi-Agent AI System](https://www.linkedin.com/pulse/building-multi-agent-ai-system-diego-manssur-fhawc/)
 [<img src="images/011_multiagent.png?raw=true"/>](https://www.linkedin.com/pulse/building-multi-agent-ai-system-diego-manssur-fhawc/)
 As AI technology continues to develop, I have been exploring how to combine the new tools emerging in today's landscape. In my recent project, I built a Multi-Agent AI System that searches the web for data, saves its findings, passes the information to a writing agent and outputs a result based on a prompt. This project primarily utilizes Python, Ollama, and LangGraph. Click to read more!
@@ -22,10 +26,6 @@ Hello! I've been having some fun learning about Machine Learning and predictive 
 ### [Salary Prediction Using Machine Learning](https://www.linkedin.com/pulse/salary-prediction-using-machine-learning-diego-manssur-pnf0e/)
 [<img src="images/salary.png?raw=true"/>](https://www.linkedin.com/pulse/salary-prediction-using-machine-learning-diego-manssur-pnf0e/)
 I've been digging into the world of AI and Machine Learning, so I decided to work on a simple ML case using predictive modeling. Hope you like it!
-
-### [Take The Shot!](https://www.linkedin.com/pulse/take-shot-diego-manssur-4buje/?trackingId=TLvSXS2XQuCKfr0qkyDf5g%3D%3D)
-[<img src="images/shot.png?raw=true"/>](https://www.linkedin.com/pulse/take-shot-diego-manssur-4buje/?trackingId=TLvSXS2XQuCKfr0qkyDf5g%3D%3D)
-Hello! In this case, I analyzed data from 1558 Call Of Duty players and found some interesting insights regarding their Level, Time Played and other skills. Click here to read more!
 
 ### [Hired Or Fired?](https://www.linkedin.com/pulse/hired-fired-diego-manssur-sb91e/?trackingId=TLvSXS2XQuCKfr0qkyDf5g%3D%3D)
 [<img src="images/hof.png?raw=true"/>](https://www.linkedin.com/pulse/hired-fired-diego-manssur-sb91e/?trackingId=TLvSXS2XQuCKfr0qkyDf5g%3D%3D)
