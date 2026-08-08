@@ -3,6 +3,18 @@
 
 ### Learn About My Projects
 
+### [Building a Text-to-SQL AI App](https://www.linkedin.com/pulse/building-text-to-sql-ai-app-diego-manssur-diycc/)
+[<img src="images/012_text_to_sql.png?raw=true"/>](https://www.linkedin.com/pulse/building-text-to-sql-ai-app-diego-manssur-diycc/)
+During my journey in learning Data Science, I developed a particular affinity for SQL. However, the time spent on crafting these queries can distract you from the more critical tasks of analyzing data and connecting databases. In this project, I developed an AI App that generates SQL queries based on simple English instructions. This application combines open-source LLMs and Python, and features an interactive user interface. 
+
+### [Building a Web UI for a Local AI Agent](https://www.linkedin.com/pulse/building-multi-agent-ai-system-diego-manssur-fhawc/)
+[<img src="images/0015_webaipass.jpg?raw=true"/>](https://www.linkedin.com/pulse/building-web-ui-local-ai-agent-diego-manssur-qjvnc/)
+Hello AI enthusiasts and Data Analysts. In this project, I have developed a user-friendly interface for Data Analysis utilizing an AI model with Streamlit, LangChain, Ollama, and Mistral. The project also incorporates libraries such as Pandas, Matplotlib, and Seaborn for data analysis and visualization.
+
+### [Building a Multi-Agent AI System](https://www.linkedin.com/pulse/building-multi-agent-ai-system-diego-manssur-fhawc/)
+[<img src="images/011_multiagent.png?raw=true"/>](https://www.linkedin.com/pulse/building-multi-agent-ai-system-diego-manssur-fhawc/)
+As AI technology continues to develop, I have been exploring how to combine the new tools emerging in today's landscape. In my recent project, I built a Multi-Agent AI System that searches the web for data, saves its findings, passes the information to a writing agent and outputs a result based on a prompt. This project primarily utilizes Python, Ollama, and LangGraph. Click to read more!
+
 ### [Music Popularity Prediction with Python](https://www.linkedin.com/pulse/music-popularity-prediction-python-diego-manssur-vrsre/)
 [<img src="images/spotify.png?raw=true"/>](https://www.linkedin.com/pulse/music-popularity-prediction-python-diego-manssur-vrsre/)
 Hello! I've been having some fun learning about Machine Learning and predictive algorithms. In this article, I use a data set with 227 music tracks to predict their popularity creating and training a model. Take a look for more!
