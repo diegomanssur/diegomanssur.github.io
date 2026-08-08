@@ -7,7 +7,7 @@
 [<img src="images/012_text_to_sql.png?raw=true"/>](https://www.linkedin.com/pulse/building-text-to-sql-ai-app-diego-manssur-diycc/)
 During my journey in learning Data Science, I developed a particular affinity for SQL. However, the time spent on crafting these queries can distract you from the more critical tasks of analyzing data and connecting databases. In this project, I developed an AI App that generates SQL queries based on simple English instructions. This application combines open-source LLMs and Python, and features an interactive user interface. 
 
-### [Building a Web UI for a Local AI Agent](https://www.linkedin.com/pulse/building-multi-agent-ai-system-diego-manssur-fhawc/)
+### [Building a Web UI for a Local AI Agent](https://www.linkedin.com/pulse/building-web-ui-local-ai-agent-diego-manssur-qjvnc/)
 [<img src="images/0015_webaipass.jpg?raw=true"/>](https://www.linkedin.com/pulse/building-web-ui-local-ai-agent-diego-manssur-qjvnc/)
 Hello AI enthusiasts and Data Analysts. In this project, I have developed a user-friendly interface for Data Analysis utilizing an AI model with Streamlit, LangChain, Ollama, and Mistral. The project also incorporates libraries such as Pandas, Matplotlib, and Seaborn for data analysis and visualization.
 
