@@ -15,11 +15,6 @@ Building a local RAG System can protect a company's privacy and data while reduc
 [<img src="images/016_aisql.png?raw=true"/>](https://www.linkedin.com/pulse/building-ai-sql-assistant-diego-manssur-rwjoc/)
 Many companies aspire to make data-driven decisions in their daily operations. However, tight timelines and a lack of technical knowledge can affect workflows, breaking deadlines and making data less accessible. In this project, I have built an AI SQL assistant that takes a user's question, connects to a database, writes SQL queries in the background, and returns readable raw results. This app also features a simple interface that makes the entire experience easy to navigate. 
 
-### [Building a Multi-Language RAG Pipeline](https://www.linkedin.com/pulse/building-ai-sql-assistant-diego-manssur-rwjoc/)
-[<img src="images/017_multilangrag.png?raw=true"/>](https://www.linkedin.com/pulse/building-ai-sql-assistant-diego-manssur-rwjoc/)
-Building a local RAG System can protect a company's privacy and data while reducing dependency on external APIs.
-In this project, I built a local RAG System that handles documents in various languages and formulates answers in the user's native language. I used tools like Ollama to set up prompt rules and answers, along with HuggingFace for embedding. Click here to read more.
-
 ### [Building a Text-to-SQL AI App](https://www.linkedin.com/pulse/building-text-to-sql-ai-app-diego-manssur-diycc/)
 [<img src="images/012_text_to_sql.png?raw=true"/>](https://www.linkedin.com/pulse/building-text-to-sql-ai-app-diego-manssur-diycc/)
 During my journey in learning Data Science, I developed a particular affinity for SQL. However, the time spent on crafting these queries can distract you from the more critical tasks of analyzing data and connecting databases. In this project, I developed an AI App that generates SQL queries based on simple English instructions. This application combines open-source LLMs and Python, and features an interactive user interface. 
